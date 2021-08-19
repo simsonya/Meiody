@@ -1,2 +1,2 @@
-# Meiody
-учебный проект Glo Academy
+# Meiody - учебный проект Glo Academy
+## Проект выполнила - Сим. Софья
